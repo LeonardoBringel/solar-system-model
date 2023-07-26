@@ -11,7 +11,28 @@ body {
 }
 
 
-/* -- main -- */
+/* -- HEADER -- */
+#title {
+	color: #FFFFFF;
+	font-size: 16em;
+	padding: 0.1em;
+	line-height: 0;
+	
+	padding-top: 0.2em;
+	padding-left: 0.2em;
+}
+
+#description {
+	color: #FFFFFF;
+	font-size: 4em;
+	line-height: 1.5;
+
+	margin-left: 1em;
+	width: 20em;
+}
+
+
+/* -- MAIN -- */
 #sun,
 #merkury,
 #venus,
