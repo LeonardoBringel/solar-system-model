@@ -34,7 +34,7 @@ A solar system model built with HTML, CSS and JavaScript.
 
 ![solar_system_preview_1](https://github.com/LeonardoBringel/SolarSystem/assets/64162701/a5ded5f7-ea6f-4fb9-8ec4-4232ee7d726f)
 
-https://github.com/LeonardoBringel/SolarSystem/assets/64162701/c67e5e25-a485-46b5-92f6-e70528faad38
+https://github.com/LeonardoBringel/SolarSystem/assets/64162701/41963373-731c-4d2f-9ff1-42bad7711214
 
 
 ## 🚚 Getting Started
