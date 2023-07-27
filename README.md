@@ -4,6 +4,9 @@
 
 
 <p align="center">
+  <a href="https://github.com/LeonardoBringel/SolarSystem/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/LeonardoBringel/SolarSystem?color=blue" alt="License">
+  </a>
 </p>
 
 
