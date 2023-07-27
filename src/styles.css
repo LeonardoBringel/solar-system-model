@@ -115,7 +115,7 @@ body {
 	background-color: #A15940;	
 }
 
-/* VENUS */
+/* -- venus -- */
 #venus {
 	/*  orbit */
 	width: 30em;
@@ -136,7 +136,7 @@ body {
 	background-color: #CC6B0D;
 }
 
-/* EARTH */
+/* -- earth -- */
 #earth {
 	/*  orbit */
 	width: 43em;
@@ -157,7 +157,7 @@ body {
 	background-color: #6385F3;
 }
 
-/* MOON */
+/* -- moon -- */
 #moon {
 	/* orbit position */
 	top: 3.5em;
@@ -182,7 +182,7 @@ body {
 	background-color: #C0C0C0;
 }
 
-/* MARS */
+/* -- mars -- */
 #mars {
 	/*  orbit */
 	width: 55em;
@@ -203,7 +203,7 @@ body {
 	background-color: #920E0C;	
 }
 
-/* JUPITER */
+/* -- jupiter -- */
 #jupiter {
 	/*  orbit */
 	width: 70em;
@@ -224,7 +224,7 @@ body {
 	background-color: #B85D31;	
 }
 
-/* SATURN */
+/* -- saturn -- */
 #saturn {
 	/*  orbit */
 	width: 90em;
@@ -260,7 +260,7 @@ body {
   	background-color: transparent;
 }
 
-/* URANUS */
+/* -- uranus -- */
 #uranus {
 	/*  orbit */
 	width: 110em;
@@ -281,7 +281,7 @@ body {
 	background-color: #6BCBE3;	
 }
 
-/* NEPTUNE */
+/* -- neptune -- */
 #neptune {
 	/*  orbit */
 	width: 130em;
@@ -301,6 +301,21 @@ body {
 
 	background-color: #515BD7;
 }
+
+
+/* -- PLANET DESCRIPTION -- */
+#planet_name {
+	text-transform: uppercase;
+}
+
+#planet_data {
+	padding-top: 2em;
+	padding-left: 1em;
+	color: #FFFFFF;
+
+	font-size: 3.8em;
+}
+
 
 @keyframes orbit {
 	to {
