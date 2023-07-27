@@ -26,16 +26,15 @@ document.querySelector("#venus").onclick = function() {
 	set_planet_description("venus", "4.87", "92.84", "6051.80", "8.87", "224.70", "5832.60", "35.02", "0");
 }
 
-document.querySelector("#merkury").onclick = function() {
-	set_planet_description("merkury", "0.33", "6.08", "2440.50", "3.70", "87.97", "1407.60", "47.36", "0");
+document.querySelector("#mercury").onclick = function() {
+	set_planet_description("mercury", "0.33", "6.08", "2440.50", "3.70", "87.97", "1407.60", "47.36", "0");
 }
 
 document.querySelector("#sun").onclick = function() {
 	set_planet_description("sun", "1,988,500.00", "1,412,000.00", "695,700.00", "274.00", "undefined", "609.12", "undefined", "undefined");
 }
 
-function set_planet_description(planet_name, mass, volume, radius, gravity, orbit_period,
-		rotation_period, orbital_velocity, natural_satellites) {
+function set_planet_description(planet_name, mass, volume, radius, gravity, orbit_period, rotation_period, orbital_velocity, natural_satellites) {
 	
 	document.querySelector("#planet_name").innerText = planet_name;
 	document.querySelector("#mass").innerText = "Mass: " + mass + " 10^24kg";

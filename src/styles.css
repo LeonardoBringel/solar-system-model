@@ -34,7 +34,7 @@ body {
 
 /* -- MAIN -- */
 #sun,
-#merkury,
+#mercury,
 #venus,
 #earth,
 #mars,
@@ -49,7 +49,7 @@ body {
 	margin: auto;
 }
 
-#merkury,
+#mercury,
 #venus,
 #earth,
 #moon,
@@ -65,7 +65,7 @@ body {
 	border-radius: 50%;
 }
 
-#merkury::before,
+#mercury::before,
 #venus::before,
 #earth::before,
 #moon::before,
@@ -94,8 +94,8 @@ body {
 }
 
 
-/* -- merkury -- */
-#merkury {
+/* -- mercury -- */
+#mercury {
 	/*  orbit */
 	width: 20em;
 	height: 20em;
@@ -103,7 +103,7 @@ body {
 	animation: orbit 5s linear infinite;
 }
 
-#merkury::before {
+#mercury::before {
 	/* planet position */
 	top: 2.8em;
 	right: 1.2em;
