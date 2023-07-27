@@ -12,7 +12,7 @@
 
 ## 📌 About
 
-A solar system model, built with HTML, CSS and JavaScript.
+A solar system model built with HTML, CSS and JavaScript.
 
 
 ## ✨ Main Features
@@ -20,7 +20,7 @@ A solar system model, built with HTML, CSS and JavaScript.
 * Illustrates the orbit of planets
 * Shows the different orbital speeds of the planets
 * Shows the difference in size of the planets
-* Display information about the selected planet/object
+* Display information about the selected planet/object based on [NASA Planetary Fact Sheets](https://nssdc.gsfc.nasa.gov/planetary/planetfact.html)
 
 
 ## 🚀 Technologies Used
@@ -43,3 +43,8 @@ Clone this repository and have fun! 😉
 ```
 git clone https://github.com/LeonardoBringel/SolarSystem .
 ```
+
+
+## 📄 License
+
+This project is MIT licensed, as found in the [LICENSE](./LICENSE) file.
